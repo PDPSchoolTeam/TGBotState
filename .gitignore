@@ -1,0 +1,6 @@
+.venv
+.env
+.idea
+.xml
+__pycache__
+new.py
