@@ -12,6 +12,10 @@ Loyiha qilingan virtual muhiti yoki tizimda quyidagi amallarni bajaring:
 - `aiogram`
 - `python-dotenv`
 
+   ```shell
+   pip install aiogram python-dotenv
+   ```
+
 ### O'rnatish
 
 1. Repositoryni klonlang:
